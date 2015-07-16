@@ -1,3 +1,4 @@
+# Modified from original by justinaray
 node_modules
 .tmp
 gulp-cache
